@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="background">#282923</color>
+    <color name="baseText">#F8F8F2</color>
+    <color name="numberLine">#90918B</color>
+    <color name="systemToken">#F9240E</color>
+    <color name="commentCode">#74705D</color>
+    <color name="numbers">#AC80FF</color>
+    <color name="text">#E7DB74</color>
+    <color name="functions">#67D8EF</color>
+    <color name="arguments">#FD9621</color>
+    <color name="defFunction">#A6E22C</color>
+</resources>
